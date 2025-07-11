@@ -1,14 +1,22 @@
+🌤️ OBTENÉ INFORMACIÓN DEL CLIMA
+Aplicación web que permite consultar el clima actual de cualquier ciudad del mundo. Incluye un buscador interactivo y una sección con ciudades sugeridas de forma aleatoria.
 
-# OBTENÉ INFORMACIÓN DEL CLIMA
+🚀 Tecnologías utilizadas
+React
 
-# Tecnologías utilizadas:
+Vite
+
+JavaScript
 
 Bootstrap 5
-React
-JavaScript
-Vite
-Node JS
 
-# Funcionalidades:
+Node.js
 
-Busqueda del clima actual en una ciudad, incluye un buscador y con 10 ciudades aleatorias.
+✨ Funcionalidades
+🔍 Búsqueda del clima actual por ciudad.
+
+🌎 Muestra el estado del clima, temperatura y descripción general.
+
+🎲 Lista de 10 ciudades aleatorias sugeridas para explorar.
+
+📱 Diseño responsive, adaptado a dispositivos móviles y de escritorio.
